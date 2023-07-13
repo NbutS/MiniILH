@@ -1,6 +1,8 @@
 # MiniILH
 Hãy di chuyển các ô vuông để đạt được dải màu Gradient hài hòa nhất!
-## 1. Cài đặt: 
+## 1. Cài đặt:
+Tải file apk 
+[Tại đây]([URL](https://drive.google.com/drive/folders/1n4oHDzljHXePpgC1aTgSJgbm82QHZHrv?usp=sharing))
 ## 2. Hướng dẫn chơi:
 Trò chơi có nhiều level khác nhau từ dễ đến khó, độ khó của trò chơi được tạo ra bởi độ phức tạp của ma trận. Nhiệm vụ của người chơi là hãy đổi chỗ các ô vuông cho nhau cho tới khi đạt được những dải màu Gradient hài hòa nhất!
 
